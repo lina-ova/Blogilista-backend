@@ -1,5 +1,6 @@
 POST http://localhost:3003/api/blogs
 Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InNoYWxhbCIsImlkIjoiNjI4Y2IwMDJkNDNkMGUyMTc4NmEyNzU3IiwiaWF0IjoxNjUzMzkyOTI3fQ.riWUKqRRoeqSbN59-GrtFCkX3nMDzQ3jRfk_rgMO_EA
 
 {
   "title": "fiki",
