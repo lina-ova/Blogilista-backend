@@ -2,8 +2,9 @@ POST http://localhost:3003/api/blogs
 Content-Type: application/json
 
 {
-  "title": "wiki",
-  "author": "unnown",
-  "url": "www.wikipedia.org/",
-  "likes":1
+  "title": "fiki",
+  "author": "writers",
+  "url": "ficbook.net",
+  "likes":9,
+  "userId": "628c953440aa79f821881eae"
 }
